@@ -7,7 +7,7 @@ Desenvolvedor Full Stack cursando o 7º semestre de **Ciência da Computação**
 
 Com uma sólida trajetória profissional utilizando **PHP** e **Laravel**, participei ativamente do desenvolvimento de sistemas complexos, desde a sua concepção até a entrega. Atualmente, continuo a trabalhar com estas tecnologias, focando na implementação de novas funcionalidades e na manutenção evolutiva de sistemas legados e modernos. Minha experiência abrange também tecnologias como **VB.NET**, além de conhecimento acadêmico em **Python** e **Java**.
 
-- [cite_start]🎓 **Formação:** Ciência da Computação na Universidade de Fortaleza (UNIFOR) 
+- 🎓 **Formação:** Ciência da Computação na Universidade de Fortaleza (UNIFOR) 
 - 🚀 Especializado em **PHP/Laravel** para desenvolvimento back-end.
 - 🌱 Aprimorando constantemente minhas habilidades em **Bootstrap**, **jQuery** e **JavaScript**.
 
