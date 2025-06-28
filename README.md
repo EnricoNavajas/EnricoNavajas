@@ -3,13 +3,11 @@
 <br>
 
 ### 👨‍💻 Sobre Mim
-Desenvolvedor Full Stack cursando o 7º semestre de **Ciência da Computação** e com 1.5 anos de experiência em criar e otimizar soluções de software robustas e eficientes.
-
-Com uma sólida trajetória profissional utilizando **PHP** e **Laravel**, participei ativamente do desenvolvimento de sistemas complexos, desde a sua concepção até a entrega. Atualmente, continuo a trabalhar com estas tecnologias, focando na implementação de novas funcionalidades e na manutenção evolutiva de sistemas legados e modernos. Minha experiência abrange também tecnologias como **VB.NET**, além de conhecimento acadêmico em **Python** e **Java**.
+Desenvolvedor Full Stack cursando o 7º semestre de **Ciência da Computação** e com 1.5 anos de experiência.
 
 - 🎓 **Formação:** Ciência da Computação na Universidade de Fortaleza (UNIFOR) 
-- 🚀 Especializado em **PHP/Laravel** para desenvolvimento back-end.
-- 🌱 Aprimorando constantemente minhas habilidades em **Bootstrap**, **jQuery** e **JavaScript**.
+- 🚀 **PHP/Laravel**.
+- 🌱 Habilidades em **Html**,**Css**,**Bootstrap**, **jQuery** e **JavaScript**.
 
 <br>
 
@@ -45,7 +43,7 @@ Com uma sólida trajetória profissional utilizando **PHP** e **Laravel**, parti
 
 <br>
 
-### 🌐 Conecte-se Comigo
+### 🌐 Contatos
 
 <p align="left">
   <a href="https://www.linkedin.com/in/enrico-santos-navajas-538615247/" target="_blank">
