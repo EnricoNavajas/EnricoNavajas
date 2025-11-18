@@ -33,16 +33,6 @@ Desenvolvedor Full Stack cursando o 7º semestre de **Ciência da Computação**
 
 <br>
 
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ENRICONAVAJAS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Enrico"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENRICONAVAJAS&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de Enrico"/>
-</p>
-
-<br>
-
 ### 🌐 Contatos
 
 <p align="left">
