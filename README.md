@@ -3,7 +3,7 @@
 <br>
 
 ### 👨‍💻 Sobre Mim
-Desenvolvedor Full Stack cursando o 7º semestre de **Ciência da Computação** e com 1.5 anos de experiência.
+Desenvolvedor Full Stack cursando o 7º semestre de **Ciência da Computação** e com 2 anos de experiência como dev.
 
 - 🎓 **Formação:** Ciência da Computação na Universidade de Fortaleza (UNIFOR) 
 - 🚀 **PHP/Laravel**.
