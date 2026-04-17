@@ -1,45 +1,48 @@
 # Olá, eu sou Enrico Santos Navajas! 👋
 
+<div align="center">
+  <a href="https://github.com/EnricoNavajas">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnricoNavajas&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do Enrico" />
+  </a>
+  <a href="https://github.com/EnricoNavajas">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoNavajas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/EnricoNavajas">
+    <img src="https://streak-stats.demolab.com?user=EnricoNavajas&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Streak" />
+  </a>
+</div>
+
 <br>
 
 ### 👨‍💻 Sobre Mim
-Desenvolvedor Full Stack cursando o 7º semestre de **Ciência da Computação** e com 2 anos de experiência como dev.
+Desenvolvedor Full Stack cursando o 7º semestre de **Ciência da Computação** (UNIFOR) e com 2 anos de experiência construindo soluções eficientes e escaláveis.
 
-- 🎓 **Formação:** Ciência da Computação na Universidade de Fortaleza (UNIFOR) 
-- 🚀 **PHP/Laravel**.
-- 🌱 Habilidades em **Html**,**Css**,**Bootstrap**, **jQuery** e **JavaScript**.
+- 🚀 Especialista no ecossistema web e mobile (**PHP/Laravel**, **Node.js**, **React/React Native**).
+- 💡 Forte interesse na integração de Inteligência Artificial e fluxos de automação em produtos de software.
+- 🌱 Sempre focado em entregar código limpo, arquitetura sólida (MVC, APIs RESTful) e ótima experiência do usuário.
 
 <br>
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Visual Basic .NET](https://img.shields.io/badge/VB.net-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,bootstrap,html,css,mysql,postgres,react,nodejs,java,python,git&theme=dark" alt="Minhas Habilidades" />
+  </a>
+</div>
 
 <br>
 
 ### 🌐 Contatos
 
-<p align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/enrico-santos-navajas-538615247/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Enrico1217@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-</p>
+</div>
