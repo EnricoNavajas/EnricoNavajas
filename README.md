@@ -1,4 +1,8 @@
-# Olá, eu sou Enrico Santos Navajas! 👋
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Enrico+Santos+Navajas!+👋;Full+Stack+Developer+💻)
+
+</div>
 
 <div align="center">
   <a href="https://github.com/EnricoNavajas">
@@ -13,6 +17,10 @@
   <a href="https://github.com/EnricoNavajas">
     <img src="https://streak-stats.demolab.com?user=EnricoNavajas&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Streak" />
   </a>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnricoNavajas&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 <br>
