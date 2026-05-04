@@ -6,15 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/EnricoNavajas">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnricoNavajas&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do Enrico" />
-  </a>
-  <a href="https://github.com/EnricoNavajas">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnricoNavajas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/EnricoNavajas">
     <img src="https://streak-stats.demolab.com?user=EnricoNavajas&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Streak" />
   </a>
 </div>
